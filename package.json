@@ -1,0 +1,11 @@
+{
+  "name": "cohere-backend",
+  "version": "1.0.0",
+  "description": "Serverless backend for Cohere chatbot",
+  "main": "netlify/functions/chat.js",
+  "type": "commonjs",
+  "scripts": {
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {}
+}
